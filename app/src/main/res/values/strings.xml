@@ -1,0 +1,472 @@
+<resources>
+    <string name="app_name">CustomAdapterDemo</string>
+
+    <string-array name="country_names">
+
+        <item>Afghanistan</item>
+        <item>Algeria</item>
+        <item>Bangladesh</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>Croatia</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Egypt</item>
+        <item>Ethiopia</item>
+        <item>Fiji</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Greece</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Ireland</item>
+        <item>Jamaica</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kuwait</item>
+        <item>Lebanon</item>
+        <item>Luxembourg</item>
+        <item>Madagascar</item>
+        <item>Maldives</item>
+        <item>Mauritius</item>
+        <item>Netherlands</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Poland</item>
+        <item>Qatar</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>Somalia</item>
+        <item>Thailand</item>
+        <item>Tuvalu</item>
+        <item>Uganda</item>
+        <item>Uruguay</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+
+    </string-array>
+
+    <string-array name="country_details">
+
+        <item> AFGHANISTAN\n\n
+            Languages: Dari Persian, Pashtu (both official), other Turkic and minor languages\n\n
+Ethnicity/race: Pashtun 42%, Tajik 27%, Hazara 9%, Uzbek 9%, Aimak 4%, Turkmen 3%, Baloch 2%, other 4%\n\n
+Religion: Sunni Muslim 80%, Shia Muslim 19%, other 1%\n\n
+National Holiday: Independence Day, August 19\n\n
+Literacy rate: 28.1% (2000 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $45.3 billion; per capita $1,100.\n Real growth rate: 3.1% (2013 est.).\n Inflation: 6.8% (2013 est.).\n Unemployment: 35% (2008 est.).\n Arable land: 11.95%.\n Agriculture: opium, wheat, fruits, nuts; wool, mutton, sheepskins, lambskins.\n Labor force: 15 million; agriculture 80%, industry 10%, services 10%.\n Natural resources: natural gas, petroleum, coal, copper, chromite, talc, barites, sulfur, lead, zinc, iron ore, salt, precious and semiprecious stones.\n Industries: small-scale production of textiles, soap, furniture, shoes, fertilizer, cement; handwoven carpets; natural gas, coal, copper.\n Exports: $376 million; note - not including illicit exports or reexports (2012): opium, fruits and nuts, handwoven carpets, wool, cotton, hides and pelts, precious and semiprecious gems.\n Imports: $6.39 billion (2012): capital goods, food, textiles, petroleum products.\n Major trading partners: Pakistan, India, U.S., Germany, Russia, China, Tajikistan.
+        </item>
+
+        <item>ALGERIA\n\n
+        Ethnicity/race: Arab-Berber 99%, European less than 1%\n\n
+        Religion: Muslim (official; predominantly Sunni) 99%, other (includes Christian and Jewish) less than 1%\n\n
+        National Holiday: Revolution Day, November 1\n\n
+        Literacy rate: 79%\n\n
+        Economic summary: GDP/PPP (2013 est.): $284.7 billion; per capita $7,500.\n Real growth rate: 3.1%.\n Inflation: 3.9%.\n Unemployment: 10.3%.\n Arable land: 3.15%.\n Agriculture: wheat, barley, oats, grapes, olives, citrus, fruits; sheep, cattle.\n Labor force: 11.15 million; agriculture 14%, industry 13.4%, construction and public works 10%, trade 14.6%, government 32%, other 16% (2003 est.).\n Industries: petroleum, natural gas, light industries, mining, electrical, petrochemical, food processing.\n Natural resources: petroleum, natural gas, iron ore, phosphates, uranium, lead, zinc.\n Exports: $68.2 billion f.o.b. (2013 est.): petroleum, natural gas, and petroleum products 97%.\n Imports: $55.02 billion f.o.b. (2013 est.): capital goods, foodstuffs, consumer goods.\n Major trading partners: France, Italy, China, Germany, Spain, U.S., Netherlands, Canada, UK, Brazil (2012)
+        Communications: Telephones: main lines in use: 3.2 million (2012); mobile cellular: 37.692 million (2012).\n Internet hosts: 676 (2012).\n Internet users: 4.7 million (2012).\n
+        Transportation: Railways: total: 3,973 km (2011).\n Highways: total: 113,655 km; (2011).\n Ports and harbors: Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, Skikda. Airports: 157 (2013).
+        </item>
+
+        <item>BANGLADESH\n\n
+            Principal languages: Bangla (official), English\n\n
+Ethnicity/race: Bengali 98%, tribal groups, non-Bengali Muslims (1998)\n\n
+Religions: Muslim 89.5%, Hindu 9.6%, other 0.9% (2004)\n\n
+National Holiday: Independence Day, March 26\n\n
+Literacy rate: 57.7% (2011 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $324.6 billion; per capita $2,100.\n Real growth rate: 5.8%. \nInflation: 7.6%.\n Unemployment: 5% (includes underemployment). Arable land: 52.97%. \nAgriculture: rice, jute, tea, wheat, sugarcane, potatoes, tobacco, pulses, oilseeds, spices, fruit; beef, milk, poultry. \nLabor force: 78.62 million; \nnote: extensive export of labor to Saudi Arabia, Kuwait, UAE, Oman, Qatar, and Malaysia; agriculture 47%, industry 13%, services 40% (2013).\n Industries: cotton textiles, jute, garments, tea processing, paper newsprint, cement, chemical fertilizer, light engineering, sugar. \nNatural resources: natural gas, arable land, timber, coal.\n Exports: $26.91 billion (2013 est.): garments, jute and jute goods, leather, frozen fish and seafood. \nImports: $32.94 billion (2013 est.): machinery and equipment, chemicals, iron and steel, textiles, foodstuffs, petroleum products, cement.\n Major trading partners: U.S., Germany, UK, France, Italy, India, China, Kuwait, Japan, Spain, Canada, Malaysia, Republic of Korea (2013).
+        </item>
+
+        <item>BRAZIL\n\n
+National name: República Federativa do Brasil\n\n
+Ethnicity/race: white 47.73%, pardo (Brazilian census category for mixed race, usually white and black) 43.13%, black 7.61%, asian 1.09%, indigenous 0.43%, undeclared 0% (responses exist, but are fewer than one in ten thousand) (2010)\n\n
+National Holiday: Independence Day, September 7\n\n
+Religion: Roman Catholic 74%, Protestant 15%, Spiritualist 1%, none 7% (2000)\n\n
+Literacy rate: 88.6% (2011 est.)\n\n
+Economic summary: GDP/PPP (2011 est.): $2.282 trillion; per capita $11,600.\n Real growth rate: –2.7%.\n Inflation: 6.5%.\n Unemployment: 6%.\n Arable land: 7%.\n Agriculture: coffee, soybeans, wheat, rice, corn, sugarcane, cocoa, citrus; beef.\n Labor force: 104.7 million; agriculture 20%, industry 14%, services 66% (2011 est.).\n Industries: textiles, shoes, chemicals, cement, lumber, iron ore, tin, steel, aircraft, motor vehicles and parts, other machinery and equipment.\n Natural resources: bauxite, gold, iron ore, manganese, nickel, phosphates, platinum, tin, uranium, petroleum, hydropower, timber. \nExports: $250.8 billion f.o.b. (2011 est.): transport equipment, iron ore, soybeans, footwear, coffee, autos.\n Imports: $219.6 billion f.o.b. (2011 est.): machinery, electrical and transport equipment, chemical products, oil.\n Major trading partners: U.S., Argentina, China, Netherlands, Germany, Mexico, Nigeria, Japan (2005).
+        </item>
+
+
+        <item>CANADA\n\n
+Official name: Canada\n\n
+Land area: 3,511,003 sq mi (9,093,507 sq km)\n\n
+Total area: 3,855,102 sq mi (9,984,670 sq km)\n\n
+Capital: Ottawa, Ontario, 1.208 million (2011 est.)\n\n
+Other large cities: Toronto 5.573 million; Montreal 3.856 million; Vancouver 2.267 million; Calgary 1.216 million; Edmonton 1.142 million (2011 est.)\n\n
+Currency: Canadian Dollar\n\n
+National Holiday: Canada Day (7/1)\n\nPopulation: 36,290,000 (2016 est.)\n\nLife Expectancy: 81.67 years\n\n
+Nationality/Demonym: Canadian\n\n
+Languages: English (official) 58.7%, French (official) 22%, Punjabi 1.4%, Italian 1.3%, Spanish 1.3%, German 1.3%, Cantonese 1.2%, Tagalog 1.2%, Arabic 1.1%, other 10.5% (2011 est.)\n\n
+Ethnicity/race: Canadian 32.2%, English 19.8%, French 15.5%, Scottish 14.4%, Irish 13.8%, German 9.8%, Italian 4.5%, Chinese 4.5%, North American Indian 4.2%, other 50.9%\n\n
+        </item>
+
+
+        <item>CROATIA\n\n
+National Name: Republika Hrvatska\n\n
+Current government officials\n\n
+Languages: Croatian (official) 95.6%, Serbian 1.2%, other 3% (including Hungarian, Czech, Slovak, and Albanian), unspecified 0.2% (2011 est.)\n\n
+Ethnicity/race: Croat 90.4%, Serb 4.4%, other 4.4% (including Bosniak, Hungarian, Slovene, Czech, and Roma), unspecified 0.8% (2011 est.)\n\n
+National Holiday: Independence Day, October 8\n\n
+Religions: Roman Catholic 86.3%, Orthodox 4.4%, Muslim 1.5%, other 1.5%, unspecified 2.5%, not religious or atheist 3.8% (2011 est.)\n\n
+Literacy rate: 98.9% (2011 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $78.9 billion; per capita $17,800.\n Real growth rate: –1%.\n Inflation: 2.2%.\n Unemployment: 21.6% (2013). \nArable land: 15.85%.\n Agriculture: wheat, corn, sugar beets, sunflower seed, barley, alfalfa, clover, olives, citrus, grapes, soybeans, potatoes; livestock, dairy products.\n Labor force: 1.715 million; agriculture 2.1%, industry 29%, services 69% (2012).\n Industries: chemicals and plastics, machine tools, fabricated metal, electronics, pig iron and rolled steel products, aluminum, paper, wood products, construction materials, textiles, shipbuilding, petroleum and petroleum refining, food and beverages, tourism.\n Natural resources: oil, some coal, bauxite, low-grade iron ore, calcium, natural asphalt, silica, mica, clays, salt, hydropower.\n Exports: $12.36 billion (2013 est.): transport equipment, textiles, chemicals, foodstuffs, fuels.\n Imports: $21.74 billion (2013 est.): machinery, transport and electrical equipment; chemicals, fuels and lubricants; foodstuffs.\n Major trading partners: Italy, Bosnia and Herzegovina, Germany, Austria, Slovenia, Russia (2012).
+        </item>
+
+
+        <item>DENMARK\n\n
+        </item>
+
+        <item>DJIBOUTI\n\n
+National name: Jumhouriyya Djibouti\n\n
+Current government officials\n\n
+Languages: French and Arabic (both official), Somali, Afar\n\n
+Ethnicity/race: Somali 60%, Afar 35%, other 5% (includes French, Arab, Ethiopian, and Italian)\n\n
+National Holiday: Independence Day, June 27\n\n
+Religions: Islam 94%, Christian 6%\n\n
+Literacy rate: 67.9% (2003 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $2.505 billion; per capita $2,700.\n Real growth rate: 5%.\n Inflation: 2.5%.\n Unemployment: 59% in urban areas, 80% in rural areas (2007 est.).\n Arable land: 0.09%.\n Agriculture: fruits, vegetables; goats, sheep, camels, animal hides.\n Labor force: 294,600 (2012). Industries: construction, agricultural processing, salt.\n Natural resources: geothermal areas, gold, clay, granite, limestone, marble, salt, diatomite, gypsum, pumice, petroleum.\n Exports: $90.8 million (2013 est.): reexports, hides and skins, coffee (in transit).\n Imports: $593.3 million (2013): foods, beverages, transport equipment, chemicals, petroleum products.\n Major trading partners: Somalia, Yemen, Saudi Arabia, India, China, Indonesia, UAE (2012).
+        </item>
+
+
+        <item>EGYPT\n\n
+National name: Jumhuriyat Misr al-Arabiyah\n\n
+Current government officials\n\n
+Languages: Arabic (official), English and French widely understood by educated classes\n\n
+Ethnicity/race: Egyptian 99.6%, other 0.4% (2006 census)\n\n
+National Holiday: Revolution Day, July 23\n\n
+Religions: Muslim (predominantly Sunni) 90%, Christian (majority Coptic Orthodox, other Christians include Armenian Apostolic, Catholic, Maronite, Orthodox, and Anglican) 10% (2012 est.)\n\n
+Literacy rate: 73.9% (2012 est.)\n\n
+Economic summary: GDP/PPP $551.4 billion (2013 est.); per capita $6,600.\n Real growth rate: 1.8%. \nInflation: 9%.\n Unemployment: 13.4%.\n Arable land: 2.87%.\n Agriculture: cotton, rice, corn, wheat, beans, fruits, vegetables; cattle, water buffalo, sheep, goats.\n Labor force: 27.69 million (2013); agriculture 29%, industry 24%, services 47% (2011 est.).\n Industries: textiles, food processing, tourism, chemicals, pharmaceuticals, hydrocarbons, construction, cement, metals, light manufactures. \nNatural resources: petroleum, natural gas, iron ore, phosphates, manganese, limestone, gypsum, talc, asbestos, lead, zinc. \nExports: $24.81 billion (2013 est.): crude oil and petroleum products, cotton, textiles, metal products, chemicals.\n Imports: $59.22 billion (2013 est.): machinery and equipment, foodstuffs, chemicals, wood products, fuels.\n Major trading partners: Italy, U.S., Germany, China, UK, Saudi Arabia, India, Turkey, Libya, Ukraine, Russia (2012).
+        </item>
+
+        <item>ETHIOPIA\n\n
+        </item>
+
+
+        <item>FIJI\n\n
+        </item>
+
+
+        <item>FRANCE\n\n
+National name: République Française\n\n
+Current government officials\n\n
+Languages: French (official) 100%, rapidly declining regional dialects and languages (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish)\n\n
+Ethnicity/race: Celtic and Latin with Teutonic, Slavic, North African, Southeast Asian, and Basque minorities\n\n
+Religions: Christian (overwhelmingly Roman Catholic) 63-66%, Muslim 7-9%, Jewish .5-.75%, Buddhist .5-.75%, other .5-1.0%, none 23-28%\n\n
+National Holiday: Fete de la Federation, July 14\n\n
+Literacy rate: 99% (2011 est.)\n\n
+Economic summary: GDP/PPP (2014 est.): $2.902 trillion; per capita $40,400.\n Real growth rate: 0.4%. \nInflation: 0.7%. \nUnemployment: 9.7%.\n Arable land: 33.45%. \nAgriculture: wheat, cereals, sugar beets, potatoes, wine grapes; beef, dairy products; fish.\n Labor force: 29.87 million; services 76.4%, industry 20.6%, agriculture 2.9% (2012).\n Industries: machinery, chemicals, automobiles, metallurgy, aircraft, electronics; textiles, food processing; tourism. \nNatural resources: coal, iron ore, bauxite, zinc, uranium, antimony, arsenic, potash, feldspar, fluorospar, gypsum, timber, fish.\n Exports: $578.3 billion (2014 est.): machinery and transportation equipment, aircraft, plastics, chemicals, pharmaceutical products, iron and steel, beverages.\n Imports: $634 billion (2014 est.): machinery and equipment, vehicles, crude oil, aircraft, plastics, chemicals.\n Major trading partners: Germany, Spain, UK, Italy, Belgium, U.S., Netherlands (2013).
+        </item>
+
+
+        <item>GERMANY\n\n
+        </item>
+
+
+        <item>GREECE\n\n
+National name: Elliniki Dimokratia\n\n
+Current government officials\n\n
+Languages: Greek 99% (official), English, French\n\n
+Ethnicity/race: Greek 93%, other 7%; note: numbers represent citizenship, since Greece does not collect data on ethnicity\n\n
+Religions: Greek Orthodox 98%, Islam 1.3%, other .7%\n\n
+Literacy rate: 97.3% (2011 est.)\n\n
+Economic summary: GDP/PPP (2013) est.): $267.1 billion; per capita $23,600.\n Real growth rate: –3.8%.\n Inflation: -0.8%.\n Unemployment: 27.9%.\n Arable land: 18.95%.\n Agriculture: wheat, corn, barley, sugar beets, olives, tomatoes, wine, tobacco, potatoes; beef, dairy products.\n Labor force: 4.918 million; agriculture 12.4%, industry 22.4%, services 65.1% (2005 est.).\n Industries: tourism, food and tobacco processing, textiles, chemicals, metal products; mining, petroleum.\n Natural resources: lignite, petroleum, iron ore, bauxite, lead, zinc, nickel, magnesite, marble, salt, hydropower potential.\n Exports: $30.39 billion (2013 est.): food and beverages, manufactured goods, petroleum products, chemicals, textiles.\n Imports: $50.58 billion (2013 est.): machinery, transport equipment, fuels, chemicals.\n Major trading partners: Germany, Italy, China, Bulgaria, Turkey, France, Netherlands, Russia, Iraq (2013)
+        </item>
+
+
+        <item>HAITI\n\n
+        </item>
+
+
+        <item>HONDURUS\n\n
+National name: República de Honduras\n\n
+Current government officials\n\n
+Languages: Spanish (official), Amerindian dialects; English widely spoken in business\n\n
+Ethnicity/race: mestizo 90%, Amerindian 7%, black 2%, white 1%\n\n
+Religions: Roman Catholic 97%, Protestant 3%\n\n
+National Holiday: Independence Day, September 15\n\n
+Literacy rate: 85.1% (2011 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $39.23 billion; per capita $4,800.\n Real growth rate: 2.8%.\n Inflation: 5.2%.\n Unemployment: 4.5%.\n Arable land: 9.07%.\n Agriculture: bananas, coffee, citrus; beef; timber; shrimp.\n Labor force: 3.507 million (2013 est.); agriculture 39.2%, industry 20.9%, services 39.8%.\n Industries: sugar, coffee, textiles, clothing, wood products.\n Natural resources: timber, gold, silver, copper, lead, zinc, iron ore, antimony, coal, fish, hydropower.\n Exports: $7.881 billion (2013 est.): apparel, coffee, shrimp, automobile wire harnesses, cigars, bananas, gold, palm oil, fruit, lobster, lumber.\n Imports: $11.34 billion (2013 est.): machinery and transport equipment, industrial raw materials, chemical products, fuels, foodstuffs.\n Major trading partners: U.S., Germany, Belgium, Nicaragua, Mexico, El Salvador, Guatemala, China, Costa Rica (2012).
+        </item>
+
+
+        <item>ICELAND\n\n
+National name: Lydveldid Island\n\n
+Current government officials\n\n
+Languages: Icelandic, English, Nordic languages, German widely spoken\n\n
+Ethnicity/race: homogeneous mixture of Norse/Celtic descendants 94%, population of foreign origin 6%\n\n
+Religions: Evangelical Lutheran Church of Iceland (official) 76.2%, Roman Catholic 3.4%, Reykjavik Free Church 2.9%, Hafnarfjorour Free Church 1.9%, The Independent Congregation 1%, other religions 3.6% (includes Pentecostal and Asatru Association), none 5.2%, other or unspecified 5.9% (2013 est.)\n\n
+National Holiday: Independence Day, June 17\n\n
+Literacy rate: 99% (2003 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $13.11 billion; per capita $40,700. Real growth rate: 1.9%. Inflation: 3.9%. Unemployment: 4.5%. Arable land: 1.19%. Agriculture: potatoes, green vegetables; mutton, dairy products; fish. Labor force: 181,100; agriculture 4.8%, fishing and fish processing, industry 22.2%, services 73%. Industries: fish processing; aluminum smelting, ferrosilicon production; geothermal power, tourism. Natural resources: fish, hydropower, geothermal power, diatomite. Exports: $5.2 billion (2013 est.): fish and fish products 40%, aluminum, animal products, ferrosilicon, diatomite. Imports: $4.526 billion (2013 est.): machinery and equipment, petroleum products, foodstuffs, textiles.\n Major trading partners: UK, Germany, Netherlands, U.S., China, Denmark, Norway, France (2012).\n
+Communications: Telephones: main lines in use: 189,000 (2012); mobile cellular: 346,000 (2012). Broadcast media: state-owned public TV broadcaster operates 1 TV channel nationally; several privately-owned TV stations broadcast nationally and roughly another half-dozen operate locally; about one-half the households utilize multi-channel cable or satellite TV services; state-owned public radio broadcaster operates 2 national networks and 4 regional stations; 2 privately-owned radio stations operate nationally and another 15 provide more limited coverage (2007). Internet hosts: 369,969 (2012). Internet users: 301,600 (2009).
+        </item>
+
+        <item>INDIA\n\n
+        </item>
+
+
+        <item>IRELAND\n\n
+        </item>
+
+
+        <item>JAMAICA\n\n
+        </item>
+
+
+        <item>JORDAN\n\n
+        </item>
+
+        <item>KAZAKHSTAN\n\n
+        </item>
+
+        <item>KUWAIT\n\n
+        </item>
+
+
+        <item>LEBANON\n\n
+        </item>
+
+
+        <item>LUXEMBOURG\n\n
+        </item>
+
+
+        <item>MADAGASCAR\n\n
+Current government officials\n\n
+Languages: Malagasy and French (both official), English\n\n
+Ethnicity/race: Malayo-Indonesian (Merina and related Betsileo),  (mixed African, Malayo-Indonesian, and Arab ancestry: Betsimisaraka, Tsimihety, Antaisaka, Sakalava), French, Indian, Creole, Comoran\n\n
+Religions: indigenous beliefs 52%, Christian 41%, Islam 7%\n\n
+National Holiday: Independence Day, June 26\n\n
+Literacy rate: 64.5% (2009 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $22.03 billion; per capita $1,000. Real growth rate: 2.6%. Inflation: 8.8%. Unemployment: N.A. Arable land: 5.96%. Agriculture: coffee, vanilla, sugarcane, cloves, cocoa, rice, cassava (tapioca), beans, bananas, peanuts; livestock products. Labor force: 9.504 million (2007). Industries: meat processing, soap, breweries, tanneries, sugar, textiles, glassware, cement, automobile assembly plant, paper, petroleum, tourism. Natural resources: graphite, chromite, coal, bauxite, salt, quartz, tar sands, semiprecious stones, mica, fish, hydropower. Exports: $644.4 million (2013 est.): coffee, vanilla, shellfish, sugar, cotton cloth, chromite, petroleum products. Imports: $2.794 billion (2012 est.): capital goods, petroleum, consumer goods, food. Major trading partners: U.S., France, Germany, China, Kuwait, India, Bahrain, Mauritius, Singapore, Indonesia, South Africa, Canada (2012).\n\n
+Communications: Telephones: main lines in use: 143,700 (2012); mobile cellular: 8.564 (2012). Broadcast media: state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an extensive national network reach; privately-owned radio and TV broadcasters in cities and major towns; state-run radio dominates in rural areas; relays of 2 international broadcasters are available in Antananarivo (2007). Internet Service Providers (ISPs): 38,392 (2012). Internet users: 319,900 (2009).\n\n
+Transportation: Railways: total: 854 km (2008). Roadways: total: 34,476 km; paved: 5,613 km; unpaved: 2,886 km (2010 est.). Waterways: 600 km (432 km navigable) (2011). Ports and terminals: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear). Airports: 83 (2013).\n\n
+International disputes: claims Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island (all administered by France); the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claims of the Comoros and France (Glorioso Islands, part of the French Southern and Antarctic Lands).\n
+        </item>
+
+        <item>MALDIVES\n\n
+National name: Dhivehi Raajjeyge Jumhooriyyaa\n\n
+Current government officials\n\n
+Languages: Maldivian Dhivehi (official); English spoken by most government officials\n\n
+Ethnicity/race: South Indians, Sinhalese, Arabs\n\n
+Religion: Islam (Sunni)\n\n
+National Holiday: Independence Day, July 26\n\n
+Literacy rate: 98.4% (2006 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $3.073 billion; per capita $9,100. Real growth rate: 3.5%. Inflation: 5.1%. Unemployment: 28% (2012 est.). Arable land: 10%. Agriculture: coconuts, corn, sweet potatoes; fish. Labor force: 159,700 (2012); agriculture 15%, industry 15%, services 70% (2010). Industries: tourism, fish processing, shipping, boat building, coconut processing, garments, woven mats, rope, handicrafts, coral and sand mining. Natural resource: fish. Exports: $283 million (2012 est.). Imports: $1.406 billion (2012 est.) Major trading partners: Thailand, Sri Lanka, France, UK, US, Singapore, UAE, India, Malaysia, China, Germany, Italy (2012).\n\n
+Communications: Telephones: main lines in use: 23,140 (2012); mobile cellular: 560,000 (2012). Broadcast media: state-owned radio and TV monopoly until recently; state-owned TV operates 2 channels; 3 privately owned TV stations; state owns Voice of Maldives and operates both an entertainment and a music-based station; 5 privately owned radio stations (2012). Internet Service Providers (ISPs): 3,296 (2012). Internet users: 86,400 (2009).\n\n
+Transportation: Railways: 0 km. Highways: total: 88 km. Ports and harbors: Malé. Airports: 9 (2013).\n
+        </item>
+
+        <item>MAURITIUS\n\n
+Languages: Creole 86.5%, Bhojpuri 5.3%, French 4.1%, two languages 1.4%, other 2.6% (includes English, the official language, which is spoken by less than 1% of the population), unspecified 0.1% (2011 est.)\n\n
+Ethnicity/race: Indo-Mauritian 68%, Creole 27%, Sino-Mauritian 3%, Franco-Mauritian 2%\n\n
+Religions: Hindu 48.5%, Roman Catholic 26.3%, Muslim 17.3%, other Christian 6.4%, other 0.6%, none 0.7%, unspecified 0.1% (2011 est.)\n\n
+National Holiday: Independence Day, March 12\n\n
+Literacy rate: 88.8% (2011 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $20.95 billion; per capita $ $16,100 . Real growth rate: 3.5%. Inflation: 3.5%. Unemployment: 8.3%. Arable land: 38.24%. Agriculture: sugarcane, tea, corn, potatoes, bananas, pulses; cattle, goats; fish. Labor force: 637,600; construction and industry 30%, services 25%, agriculture and fishing 9%, trade, restaurants, hotels 22%, transportation and communication 7%, finance 6% (2007). Industries: food processing (largely sugar milling), textiles, clothing, chemicals, metal products, transport equipment, nonelectrical machinery, tourism. Natural resources: arable land, fish. Exports: $2.788 billion (2013 est.): clothing and textiles, sugar, cut flowers, molasses. Imports: $4.953 billion (2013 est.): manufactured goods, capital equipment, foodstuffs, petroleum products, chemicals. Major trading partners: UK, Spain, France, U.S., Madagascar, South Africa, Italy, China, India (2012).\n\n
+Member of Commonwealth of Nations\n\n
+Communications: Telephones: main lines in use: 349,100 (2012); mobile cellular: 1.485 million (2012). Broadcast media: the government maintains control over TV broadcasting through the Mauritius Broadcasting Corporation (MBC), which operates 3 analog and 10 digital TV stations; MBC is a shareholder in a local company that operates 2 pay-TV stations; the state retains the largest radio broadcast network with multiple stations; several private radio broadcasters have entered the market since 2001; transmissions of at least 2 international broadcasters are available (2007). Internet Service Providers (ISPs): 51,139 (2012). Internet users: 290,000 (2009).\n\n
+Transportation: Railways: 0 km. Highways: total: 2,149 km; paved: 2,149 km (including 75 km of expressways) (2012). Ports and harbors: Port Louis. Airports: 5 (2013).\n
+        </item>
+
+
+        <item>NETHERLANDS\n\n
+Current government officials\n\n
+Literacy rate: 99% (2003 est.)\n\n
+        </item>
+
+        <item>NORWAY\n\n
+Current government officials\n\n
+Languages:  Norwegian (official), Nynorsk Norwegian (official), small Sami- and Finnish-speaking minorities note: Sami is an official language in nine municipalities\n\n
+Ethnicity/race: Norwegian 94.4% (includes Sami, about 60,000), other European 3.6%, other 2% (2007 estimate)\n\n
+Religions: Church of Norway (Evangelical Lutheran - official) 82.1%, other Christian 3.9%, Muslim 2.3%, Roman Catholic 1.8%, other 2.4%, unspecified 7.5% (2011 est.)\n\n
+National Holiday: Constitution Day, May 17\n\n
+Literacy rate: 100%\n\n
+Economic summary: GDP/PPP (2013 est.): $282.2 billion; per capita $55,400. Real growth rate: 1.6%. Inflation: 1.9%. Unemployment: 3.6%. Arable land: 2.52%. Agriculture: barley, wheat, potatoes; pork, beef, veal, milk; fish. Labor force: 2.707 million; services 77.6%, industry 20.2%, agriculture, forestry, and fishing 2.2% (2012). Industries: petroleum and gas, food processing, shipbuilding, pulp and paper products, metals, chemicals, timber, mining, textiles, fishing. Natural resources: petroleum, copper, natural gas, pyrites, nickel, iron ore, zinc, lead, fish, timber, hydropower. Exports: $154.2 billion (2013 est.): petroleum and petroleum products, machinery and equipment, metals, chemicals, ships, fish. Imports: $90.14 billion (2013 est.): machinery and equipment, chemicals, metals, foodstuffs. Major trading partners: UK, Germany, Netherlands, France, U.S., Sweden, Denmark, China (2012).\n\n
+Communications: Telephones: main lines in use: 1.465 million (2012); mobile cellular: 5.732 million (2012). Broadcast media: state-owned public radio-TV broadcaster operates 3 nationwide TV stations, 3 nationwide radio stations, and 16 regional radio stations; roughly a dozen privately owned television stations broadcast nationally and roughly another 25 local TV stations broadcasting; nearly 75% of households have access to multi-channel cable or satellite TV; 2 privately owned radio stations broadcast nationwide and another 240 stations operate locally (2008). Internet hosts: 3.588 million (2012). Internet users: 4.431 million (2009).\n\n
+Transportation: Railways: total: 4,237 km (2012). Roadways: total: 93,870 km; paved: 75,754 km (includes 393 km of expressways); unpaved: 18,116 km (2013). Waterways: 1,577 km (2010). Ports and harbors: Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture. Airports: 95 (2013).\n\n
+International disputes: Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf); Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission; Norway and Russia signed a comprehensive maritime boundary agreement in 2010.\n
+        </item>
+
+
+        <item>OMAN\n\n
+Current government officials\n\n
+Languages: Arabic (official), English, Baluchi, Urdu, Indian dialects\n\n
+Ethnicity/race: Arab, Baluchi, South Asian (Indian, Pakistani, Sri Lankan, Bangladeshi), African\n\n
+National Holiday: Birthday of Sultan Qaboos, November 18\n\n
+Literacy rate: 86.9% (2010 est.)\n\n
+        </item>
+
+
+        <item>PAKISTAN\n\n
+        </item>
+
+
+        <item>POLAND\n\n
+        </item>
+
+        <item>QATAR\n\n
+Current government officials\n\n
+Languages: Arabic (official); English a common second language\n\n
+Ethnicity/race: Arab 40%, Pakistani 18%, Indian 18%, Iranian 10%, other 14%\n\n
+Religion: Religion Muslim 77.5%, Christian 8.5%, other 14% (2004 census)\n\n
+Literacy rate: 96.3% (2010)\n\n
+International disputes: none.\n
+        </item>
+
+
+        <item>ROMANIA\n\n
+Languages: Romanian 85.4% (official), Hungarian 6.3%, Romany (Gypsy) 1.2%, other 1%, unspecified 6.1% (2011 est.)\n\n
+Ethnicity/race: Romanian 83.4%, Hungarian 6.1%, Roma (Gyspy) 3.1%, Ukrainian 0.3%, German 0.2%, other 0.7%, unspecified 6.1% (2011 est.)\n\n
+Land area: 88,934 sq mi (230,339 sq km); total area: 91,699 sq mi (237,500 sq km)\n\n
+Population (2014 est.): 21,729,871 (growth rate: –0.29%); birth rate: 9.27/1000; infant mortality rate: 10.16/1000; life expectancy: 74.69; density per sq mi: 218.6\n\n
+Capital and largest city (2011 est.): Bucharest, 1.937 million\n\n
+Other large cities: Cluj-Napoca, 324,576; Timisoara, 319,279; Iasi, 290,422; Constanta, 283,872; Craiova, 269,506, Brasov, 253,200; Galati, 249,342\n\n
+Monetary unit: lei\n
+        </item>
+
+        <item>RUSSIA\n\n
+Land area: 494,208 sq mi (16,377,742 sq km)\n\n
+Total area: 496,223 sq mi (17,098,242 sq km)\n\n
+President: Vladimir Putin (Since 2012)\n\n
+Prime Minister: Dmitry Medvedev (Since 2012)\n\n
+See also: Rulers of Russia Since 1533\n\n
+Current government officials\n\n
+Capital: Moscow, 12.41 million (2018)\n\n
+Other large cities: Saint Petersburg 5.383 million; Novosibirsk 1.636 million; Yekaterinburg 1.482 million; Nizhniy Novgorod 1.264 million; Samara 1.164 million (2018)\n\n
+Currency: Russian ruble\n\n
+National Holiday: Among others, the most celebrated is Victory Day (5/9), celebrating the defeat of the Nazis.\n\n\n
+Population: 142,257,519 (July 2017 est.)\n\n
+Population Change: Growth rate: -0.08%; 11 births/1,000 population, 13.5 deaths/1,000 population, 1.7 migrant(s)/1,000 population; infant mortality rate: 6.8 deaths/1,000 live births (2017 est.)\n\n
+Life Expectancy: 71 years\n\n\n\n
+Nationality/Demonym: Russian (Rossiyane for the nationality, Russkiye for the ethnicity)\n\n
+Languages: Russian (official) 85.7%, Tatar 3.2%, Chechen 1%, other 10.1% (2010 est.)\n\n
+Ethnicity/race: Russian 77.7%, Tatar 3.7%, Ukrainian 1.4%, Bashkir 1.1%, Chuvash 1%, Chechen 1%, other 10.2%, unspecified 3.9% (2010 est.)\n\n
+Religions: Russian Orthodox 15-20%, Muslim 10-15%, other Christian 2% (2006 est.)\n\n
+Note: A majority of Russians are non-practicing or are not members of any religion, largely as a result of suppression of religion in the Soviet Union. Russia officially recognizes Orthodox Christianity, Islam, Judaism, and Buddhism as traditional religions\n\n
+Literacy rate: 99.7% (2015 est.)\n
+        </item>
+
+
+        <item>SOMALIA\n\n
+Current government officials\n\n
+Languages: Somali (official), Arabic, English, Italian\n\n
+Ethnicity/race: Somali 85%, Bantu and others 15% (including Arabs 30,000)\n\n
+Religion: Islam (Sunni)\n\n
+Literacy rate: 37.8% (2001 est.)\n\n
+        </item>
+
+
+        <item>SWITZERLAND\n\n
+National name: Schweiz/Suisse/Svizzera/Svizra\n\n
+Current government officials\n\n
+Languages: German (official) 64.9%, French (official) 22.6%, Italian (official) 8.3%, Serbo-Croatian 2.5%, Albanian 2.6%, Portuguese 3.4%, Spanish 2.2%, English 4.6%, Romansch (official) 0.5%, other 5.1% (2012 est.)\n\n
+Ethnicity/race: German 65%, French 18%, Italian 10%, Romansch 1%, other 6%\n\n
+Religions: Roman Catholic 38.2%, Protestant 26.9%, Muslim 4.9%, other Christian 5.7%, other 1.6%, none 21.4%, unspecified 1.3% (2012 est.)\n\n
+Literacy rate: 99% (2003 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $371.2 billion; per capita $54,800. Real growth rate: 2%. Inflation: -0.4%. Unemployment: 3.2%. Arable land: 9.8%. Agriculture: grains, fruits, vegetables; meat, eggs. Labor force: 4.976 million (2013); services 73.2%, industry 23.4%, agriculture 3.4% (2010). Industries: machinery, chemicals, watches, textiles, precision instruments, tourism, banking, insurance. Natural resources: hydropower potential, timber, salt. Exports: $229.2 billion (2013 est.): machinery, chemicals, metals, watches, agricultural products. Imports: $200.5 billion (2013 est.): machinery, chemicals, vehicles, metals; agricultural products, textiles. Major trading partners: Germany, U.S., France, Italy, UK, China, Austria (2013).\n\n
+Communications: Telephones: main lines in use: 4.382 million (2012); mobile cellular: 10.46 million (2012). Broadcast media: the publicly-owned radio and TV broadcaster, Swiss Broadcasting Corporation (SRG/SSR), operates 7 national TV networks, 3 broadcasting in German, 2 in Italian, and 2 in French; private commercial TV stations broadcast regionally and locally; TV broadcasts from stations in Germany, Italy, and France are widely available via multi-channel cable and satellite TV services; SRG/SSR operates 18 radio stations that, along with private broadcasters, provide national to local coverage (2009). Internet Service Providers (ISPs): 5.301 million (2012). Internet users: 6.152 million (2009).\n\n
+Transportation: Railways: total: 4,876 km (2008). Highways: total: 71,464 km; paved: 71,464 km (including 1,415 km of expressways); unpaved: 0 km (2011). Waterways: 1,292 km (2010) Ports and harbors: Basel. Airports: 63 (2013).\n\n
+International disputes: none.\n
+        </item>
+
+
+        <item>SYRIA\n\n
+Current government officials\n\n
+Languages: Arabic (official); Kurdish, Armenian, Aramaic, widely understood; French, English somewhat understood\n\n
+Ethnicity/race: Arab 90.3%, Kurds, Armenians, and other 9.7%\n\n
+Religions: Muslim 87% (official; includes Sunni 74% and Alawi, Ismaili, and Shia 13%), Christian (includes Orthodox, Uniate, and Nestorian) 10% (includes Orthodox, Uniate, and Nestorian), Druze 3%, Jewish (few remaining in Damascus and Aleppo)\n\n
+Literacy rate: 84.1% (2011 est.)\n\n
+        </item>
+
+        <item>THAILAND\n\n
+Languages: Thai (official) 90.7%, Burmese 1.3%, Other 8%, English (secondary language of the elite) (2010 est.)\n\n
+Ethnicity/race: Thai 95.9%, Burmese 2%, other 1.3%, unspecified 0.9% (2010 est.)\n\n
+Religions: Buddhist (official) 93.6%, Muslim 4.9%, Christian 1.2%, other 0.2%, none 0.1% (2010 est.)\n\n
+Literacy rate: 93.5% (2005 est.)\n\n
+        </item>
+
+
+        <item>TUVALU\n\n
+Languages: Tuvaluan, English, Samoan, Kiribati (on the island of Nui)\n\n
+Ethnicity/race: Polynesian 96%, Micronesian 4%\n\n
+Religions: Church of Tuvalu (Congregationalist) 97%, Seventh-Day Adventist 1.4%,  other 0.6%\n\n
+Literacy rate: n.a.\n\n
+International disputes: none.\n
+        </item>
+
+        <item>UGANDA\n\n
+Languages: English (official national language, taught in grade schools, used in courts of law and by most newspapers and some radio broadcasts), Ganda or Luganda (most widely used of the Niger-Congo languages, preferred for native language publications in the capital and may be taught in school), other Niger-Congo languages, Nilo-Saharan languages, Swahili, Arabic\n\n
+Ethnicity/race: Baganda 16.9%, Banyakole 9.5%, Basoga 8.4%, Bakiga 6.9%, Iteso 6.4%, Langi 6.1%, Acholi 4.7%, Bagisu 4.6%, Lugbara 4.2%, Bunyoro 2.7%, other 29.6% (2002 census)\n\n
+Religions: Roman Catholic 41.9%, Protestant 42% (Anglican 35.9%, Pentecostal 4.6%, Seventh-Day Adventist 1.5%), Muslim 12.1%, other 3.1%, none 0.9% (2002 census)\n\n
+Literacy rate: 73.2% (2010 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $54.37 billion; per capita $1,500. Real growth rate: 5.6%. Inflation: 6.2%. Unemployment: n.a. Arable land: 27.94% (2011). Agriculture: coffee, tea, cotton, tobacco, cassava (manioc, tapioca), potatoes, corn, millet, pulses, cut flowers; beef, goat meat, milk, poultry. Labor force: 17.4 million (2013 est.); agriculture 82%, industry 5%, services 13% (2011 est.). Industries: sugar, brewing, tobacco, cotton textiles; cement, steel production. Natural resources: copper, cobalt, hydropower, limestone, salt, arable land, gold. Exports: $3.156 billion (2013 est.): coffee, fish and fish products, tea, cotton, flowers, horticultural products; gold. Imports: $4.858 billion (2013 est.): capital equipment, vehicles, petroleum, medical supplies; cereals. Major trading partners: Kenya, Rwanda, Democratic Republic of the Congo, UAE, Netherlands, Germany, China, India, South Africa, Japan, Italy (2012).\n\n
+Member of the Commonwealth of Nations\n\n
+Communications: Telephones: main lines in use: 315,000 (2012); mobile cellular: 16.355 million (2012). Broadcast media: public broadcaster, Uganda Broadcasting Corporation (UBC), operates radio and television networks; Uganda first began licensing privately-owned stations in the 1990s; by 2007 there were nearly 150 radio and 35 TV stations, mostly based in and around Kampala; transmissions of multiple international broadcasters are available in Kampala (2007). Internet Service Providers (ISPs):32,683 (2012). Internet users: 3.2 million (2009).\n\n
+Transportation: Railways: total: 1,244 km (2008). Highways: total: 20,000 km; paved: 3,264 km; unpaved: 16,736 km (2011). Waterways: there are no long navigable stretches of river in Uganda; parts of the Albert Nile that flow out of Lake Albert in the northwestern part of the country are navigable; several lakes including Lake Victoria and Lake Kyoga have substantial traffic; Lake Albert is navigable along a 200-km stretch from its northern tip to its southern shores (2011). Ports and harbors: Entebbe, Jinja, Port Bell. Airports: 47 (2013).\n
+        </item>
+
+        <item>URUGUAY\n\n
+Oriental Republic of Uruguay\n\n
+Ethnicity/race: white 88%, mestizo 8%, black 4%\n\n
+Religions: Roman Catholic 47.1%, Protestant 11.1%, Jewish 0.3%\n\n
+Literacy rate: 98.1% (2010 est.)\n\n
+        </item>
+
+        <item>VENEZUELA\n\n
+Current government officials\n\n
+Languages: Spanish (official), numerous indigenous dialects\n\n
+Ethnicity/race: Spanish, Italian, Portuguese, Arab, German, African, indigenous people\n\n
+Religions: Roman Catholic 96%, Protestant 2%, other 2%\n\n
+Literacy rate: 95.5% (2009 est.)\n\n
+        </item>
+
+        <item>VIETNAM\n\n
+Land area: 119,719 sq mi (310,070 sq km)\n\n
+Total area: 127,881 sq mi (331,210 sq km)\n\n
+Current government officials\n\n
+Capital: Hanoi, 1.064 million (2018)\n\n
+Currency: Vietnamese dong\n\n
+National Holiday: Multiple. National Day (9/2) celebrates Vietnamese independence, while the "Day of Liberating the South for National Reunification" celebrates the unification of the country after the Vietnam War. The Vietnamese new year (Tết Nguyên Đán) is the biggest holiday.\n\n
+Population: 96,160,163 (July 2017 est.)\n\n
+Population Change: Growth rate: 0.93%; 15.5 births/1,000 population, 5.9 deaths/1,000 population, -0.3 migrant(s)/1,000 population; infant mortality rate: 17.3 deaths/1,000 live births (2017 est.)\n\n
+Life Expectancy: 73.7 years\n\n\n\n
+Literacy rate: 94.5% (2015 est.)\n
+        </item>
+
+
+        <item>YEMEN\n\n
+Republic of Yemen\n\n
+National name: Al-Jumhuriyah al-Yamaniyah\n\n
+Current government officials\n\n
+Language: Arabic\n\n
+Ethnicity/race: predominantly Arab; but also Afro-Arab, South Asians, Europeans\n\n
+Literacy rate: 65.3% (2011 est.)\n\n
+        </item>
+
+
+        <item>ZAMBIA\n\n
+Republic of Zambia\n\n
+Current government officials\n\n
+Literacy rate: 61.4% (2007 est.)\n\n
+        </item>
+
+        <item>ZIMBABWE\n\n
+President: Robert Mugabe (1980)\n\n
+Land area: 149,293 sq mi (386,669 sq km); total area: 150,804 sq mi (390,580 sq km)\n\n
+Population (2014 est.): 13,771,721 (growth rate: 4.36%); birth rate: 32.47/1000; infant mortality rate: 26.55/1000; life expectancy: 55.68; density per sq mi: 57\n\n
+Capital and largest city (2011 est.): Harare, 1.542 million\n\n
+Monetary unit: Zimbabwean dollar\n\n
+
+        </item>
+
+    </string-array>
+</resources>
