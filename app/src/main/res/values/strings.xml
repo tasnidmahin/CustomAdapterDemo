@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">CustomAdapterDemo</string>
+    <string name="title_text"> Warning </string>
+    <string name="msg_text"> Do you want to exit? </string>
 
     <string-array name="country_names">
 
@@ -39,9 +41,9 @@
         <item>Qatar</item>
         <item>Romania</item>
         <item>Russia</item>
+        <item>Somalia</item>
         <item>Switzerland</item>
         <item>Syria</item>
-        <item>Somalia</item>
         <item>Thailand</item>
         <item>Tuvalu</item>
         <item>Uganda</item>
@@ -121,6 +123,12 @@ Economic summary: GDP/PPP (2013 est.): $78.9 billion; per capita $17,800.\n Real
 
 
         <item>DENMARK\n\n
+            National name: Kongeriget Danmark\n\n
+Current government officials\n\n
+Languages: Danish, Faroese, Greenlandic (Inuit dialect), German; English is the predominant second language\n\n
+Ethnicity/race: Scandinavian, Inuit, Faroese, German, Turkish, Iranian, Somali\n\n
+National Holiday: Constitution Day, June 5\n\n
+            Literacy rate: 99%\n\n
         </item>
 
         <item>DJIBOUTI\n\n
@@ -147,10 +155,22 @@ Economic summary: GDP/PPP $551.4 billion (2013 est.); per capita $6,600.\n Real 
         </item>
 
         <item>ETHIOPIA\n\n
+National name: Ityop\'iya Federalawi Demokrasiyawi Ripeblik\n\n
+Current government officials\n\n
+            Religions: Ethiopian Orthodox 43.5%, Muslim 33.9%, Protestant 18.5%, traditional 2.7%, Catholic 0.7%, other 0.6% (2007 est.)\n\n
+Literacy rate: 39% (2007 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $118.2 billion; per capita $1,300.\n Real growth rate: 7%.\n Inflation: 8.4%.\n Unemployment: 17.5% (2012).\n Arable land: 13.19%. \nAgriculture: cereals, pulses, coffee, oilseed, cotton, sugarcane, potatoes, qat, cut flowers; hides, cattle, sheep, goats; fish.\n Labor force: 45.65 million (2013); agriculture and animal husbandry 85%, government and services 10%, industry and construction 5% (2009).\n Industries: food processing, beverages, textiles, leather, chemicals, metals processing, cement.\n Natural resources: small reserves of gold, platinum, copper, potash, natural gas, hydropower.\n Exports: $3.214 billion (2013 est.): coffee, qat, gold, leather products, live animals, oilseeds.\n Imports: $10.68 billion (2013 est.): food and live animals, petroleum and petroleum products, chemicals, machinery, motor vehicles, cereals, textiles.\n Major trading partners: Belgium, Germany, Saudi Arabia, U.S., India, China (2012).
+
         </item>
 
 
         <item>FIJI\n\n
+            Languages: English (official), Fijian (official), Hindustani\n\n
+Ethnicity/race: iTaukei 56.8% (predominantly Melanesian with a Polynesian admixture), Indian 37.5%, Rotuman 1.2%, other 4.5% (European, part European, other Pacific Islanders, Chinese)\n\n
+National Holiday: Independence Day, 2nd Monday of October\n\n
+Literacy rate: 93.7% (2003 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $4.45 billion; per capita $4,900.\n Real growth rate: 3%.\n Inflation: 3%. \nUnemployment: 7.6%.\n Arable land: 9.17%.\n Agriculture: sugarcane, coconuts, cassava (tapioca), rice, sweet potatoes, bananas; cattle, pigs, horses, goats; fish. \nLabor force: 335,000; agriculture 70%, industry and services 30%.\n Industries: tourism, sugar, clothing, copra, gold, silver, lumber, small cottage industries. \nNatural resources: timber, fish, gold, copper, offshore oil potential, hydropower.\n Exports: $1.026 billion (2013): sugar, garments, gold, timber, fish, molasses, coconut oil.\n Imports: $2.054 billion (2012): manufactured goods, machinery and transport equipment, petroleum products, food, chemicals.\n Major trading partners: U.S., Australia, UK, Samoa, Japan, China, Tonga, New Zealand, Singapore.
+
         </item>
 
 
@@ -167,6 +187,13 @@ Economic summary: GDP/PPP (2014 est.): $2.902 trillion; per capita $40,400.\n Re
 
 
         <item>GERMANY\n\n
+            National name: Bundesrepublik Deutschland\n\n
+Current government officials\n\n
+Language: German\n\n
+Ethnicity/race: German 91.5%, Turkish 2.4%, Italian 0.7%, Greek 0.4%, Polish 0.4%, other 4.6%\n\n
+Religions: Protestant 34%, Roman Catholic 34%, Islam 4%, Unaffiliated or other 28%\n\n
+National Holiday: Unity Day, October 3\n\n
+Literacy rate: 99% (2003 est.)\n\n
         </item>
 
 
@@ -182,6 +209,15 @@ Economic summary: GDP/PPP (2013) est.): $267.1 billion; per capita $23,600.\n Re
 
 
         <item>HAITI\n\n
+            National name: République d\'Haïti\n\n
+Current government officials\n\n
+Languages: Creole and French (both official)\n\n
+Ethnicity/race: black 95%, mulatto and white 5%\n\n
+Religions: Roman Catholic 80%, Protestant 16% (Baptist 10%, Pentecostal 4%, Adventist 1%, other 1%), other 3%, none 1%. Note: roughly half the population practices voodoo\n\n
+National Holiday: Independence Day, January 1\n\n
+Literacy rate: 48.7% (2006 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $13.42 billion; per capita $1,300.\n Real growth rate: 3.4%.\n Inflation: 6.3% (2013).\n Unemployment: 40.6% (2010 est.).\n Arable land: 36.04%.\n Agriculture: coffee, mangoes, sugarcane, rice, corn, sorghum; wood. \nLabor force: 4.81 million; note: shortage of skilled labor, unskilled labor abundant (2010); agriculture 38.1%, services 50.4%, industry 11.5%. \nIndustries: sugar refining, flour milling, textiles, cement, light assembly industries based on imported parts.\n Natural resources: bauxite, copper, calcium carbonate, gold, marble, hydropower.\n Exports: $876.8 million (2013 est.): manufactures, coffee, oils, cocoa, mangoes.\n Imports: $2.697 billion (2013 est.): food, manufactured goods, machinery and transport equipment, fuels, raw materials.\n Major trading partners: U.S., Dominican Republic, Netherlands Antilles, China (2012).
+
         </item>
 
 
@@ -210,32 +246,93 @@ Communications: Telephones: main lines in use: 189,000 (2012); mobile cellular: 
         </item>
 
         <item>INDIA\n\n
+            National name: Bharat\n\n
+Principal languages: Hindi 41%, Bengali 8.1%, Telugu 7.2%, Marathi 7%, Tamil 5.9%, Urdu 5%, Gujarati 4.5%, Kannada 3.7%, Malayalam 3.2%, Oriya 3.2%, Punjabi 2.8%, Assamese 1.3%, Maithili 1.2%, other 5.9% note: English enjoys the status of subsidiary official language but is the most important language for national, political, and commercial communication; Hindi is the most widely spoken language and primary tongue of 41% of the people; there are 14 other official languages: Bengali, Telugu, Marathi, Tamil, Urdu, Gujarati, Malayalam, Kannada, Oriya, Punjabi, Assamese, Kashmiri, Sindhi, and Sanskrit; Hindustani is a popular variant of Hindi/Urdu spoken widely throughout northern India but is not an official language (2001 census)\n\n
+Ethnicity/race: Indo-Aryan 72%, Dravidian 25%, Mongoloid and other 3% (2000)\n\n
+Religions: Hindu 80.5%, Muslim 13.4%, Christian 2.3%, Sikh 1.9%, other 1.8%, unspecified 0.1% (2001)\n\n
+National Holiday: Republic Day, January 26\n\n
+Literacy rate: 62.8% (2006 est.)\n\n
         </item>
 
 
         <item>IRELAND\n\n
+            National name: Éire\n\n
+Current government officials\n\n
+Languages: English, Irish (Gaelic) (both official)\n\n
+            National Holiday: Saint Patrick\'s Day, March 17\n\n
+Literacy rate: 99% (2003 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $190.4 billion; per capita $41,300. Real growth rate: 0.6%. Inflation: 0.6%. Unemployment: 13.5%. Arable land: 15.11%. Agriculture: turnips, barley, potatoes, sugar beets, wheat; beef, dairy products. Labor force: 2.161 million (2011 est.); agriculture 5%, industry 19%, services 76% (2011 est.). Industries: steel, lead, zinc, silver, aluminum, barite, and gypsum mining processing; food products, brewing, textiles, clothing; chemicals, pharmaceuticals; machinery, rail transportation equipment, passenger and commercial vehicles, ship construction and refurbishment; glass and crystal; software, tourism. Natural resources: zinc, lead, natural gas, barite, copper, gypsum, limestone, dolomite, peat, silver. Exports: $113.6 billion (2013 est.): machinery and equipment, computers, chemicals, pharmaceuticals; live animals, animal products. Imports: $61.51 billion (2013 est.): data processing equipment, other machinery and equipment, chemicals, petroleum and petroleum products, textiles, clothing. Major trading partners: U.S., UK, Belgium, Germany, France, Netherlands, Switzerland (2012).\n\n
         </item>
 
 
         <item>JAMAICA\n\n
+            Official name: Jamaica\n\n
+Land area: 4,181 sq mi (10,829 sq km)\n\n
+Total area: 4,244 sq mi (10,991 sq km)\n\n
+Sovereign: Queen Elizabeth II (1952)\n\n
+Governor-General: Patrick Allen (2009)\n\n
+Prime Minister: Portia Simpson-Miller (2012)\n\n
+Current government officials\n\n
+Capital: Kingston, 571,000\n\n
+Currency: Jamaican Dollar\n\n
+National Holiday: Independence Day, August 6\n\n\n\n
+Population: 2,930,050 (2014 est.)\n\n
         </item>
 
 
         <item>JORDAN\n\n
+            National name: Al-Mamlaka al-Urduniya al-Hashimiyah\n\n
+Current government officials\n\n
+Languages: Arabic (official), English\n\n
+Ethnicity/race: Arab 98%, Circassian 1%, Armenian 1%\n\n
+Religions: Islam (Sunni) 92%, Christian 6% (mostly Greek Orthodox), other 2%\n\n
+National Holiday: Independence Day, May 25\n\n
+Literacy rate: 92.6% (2010 est.)\n\n
         </item>
 
         <item>KAZAKHSTAN\n\n
+            National name: Qazaqstan Respublikasy\n\n
+Current government officials\n\n
+Languages: Kazak (Qazaq, state language) 64%; Russian (official, used in everyday business) 95% (2001 est.)\n\n
+Ethnicity/race: Kazakh (Qazaq) 63.1%, Russian 23.7%, Uzbek 2.8%, Ukrainian 2.1%, Uighur 1.4%, Tatar 1.3%, German 1.1%, other 4.5% (2009 census)\n\n
+Religions: Islam 47%, Russian Orthodox 44%, Protestant 2%, other 7%\n\n
+National Holiday: Independence Day, December 16\n\n
+Literacy rate: 99.7% (2009 est.)\n\n
+
         </item>
 
         <item>KUWAIT\n\n
+            National name: Dawlat al-Kuwayt\n\n
+Current government officials\n\n
+Languages: Arabic (official), English\n\n
+Ethnicity/race: Kuwaiti 45%, other Arab 35%, South Asian 9%, Iranian 4%, other 7%\n\n
+Religions: Islam 85% (Sunni 70%, Shiite 30%); Christian, Hindu, Parsi, and other 15%\n\n
+National Holiday: National Day, February 25\n\n
+Literacy rate: 93.3% (2005 census)\n\n
+
         </item>
 
 
         <item>LEBANON\n\n
+            National name: Al-Joumhouriya al-Lubnaniya\n\n
+Current government officials\n\n
+Languages: Arabic (official), French, English, Armenian\n\n
+Ethnicity/race: Arab 95%, Armenian 4%, other 1%; note: many Christian Lebanese do not identify themselves as Arab but rather as descendents of the ancient Canaanites and prefer to be called Phoenicians\n\n
+Religions: Muslim 54% (27% Sunni, 27% Shia), Christian 40.5% (includes 21% Maronite Catholic, 8% Greek Orthodox, 5% Greek Catholic, 6.5% other Christian), Druze 5.6%, very small numbers of Jews, Baha\'is, Buddhists, Hindus, and Mormons. (2012 est.) note: 18 religious sects recognized\n\n
+National Holiday: Independence Day, November 22\n\n
+Literacy rate: 89.6% (2007 est.)\n\n
         </item>
 
 
         <item>LUXEMBOURG\n\n
+            National name: Grand-Duché de Luxembourg\n\n
+Current government officials\n\n
+Languages: Luxermbourgish (national) French, German (both administrative)\n\n
+Ethnicity/race: Luxembourger 63.1%, Portuguese 13.3%, French 4.5%, Italian 4.3%, German 2.3%, other EU 7.3%, other 5.2% (2000 census)\n\n
+Religions: Roman Catholic 87%; Protestant, Jewish, Islamic 13% (2000)\n\n
+National Holiday: National Day, June 23\n\n
+Literacy rate: 100% (2003 est.)\n\n
+
         </item>
 
 
@@ -281,6 +378,11 @@ Transportation: Railways: 0 km. Highways: total: 2,149 km; paved: 2,149 km (incl
         <item>NETHERLANDS\n\n
 Current government officials\n\n
 Literacy rate: 99% (2003 est.)\n\n
+            Literacy rate: 99% (2003 est.)\n\n
+Economic summary: GDP/PPP (2011 est.): $699.7 billion; per capita $43,300. Real growth rate: -0.8%. Inflation: 2.5%. Unemployment: 8.3%. Arable land: 25.08%. Agriculture: grains, potatoes, sugar beets, fruits, vegetables; livestock. Labor force: 7.939 million; agriculture 2.3%, industry 18.8%, services 78.9% (2011 est.). Industries: agroindustries, metal and engineering products, electrical machinery and equipment, chemicals, petroleum, construction, microelectronics, fishing. Natural resources: natural gas, petroleum, arable land. Exports: $576.9 billion (2013 est.): machinery and equipment, chemicals, fuels; foodstuffs. Imports: $511 billion (2013 est.): machinery and transport equipment, chemicals, fuels, foodstuffs, clothing. Major trading partners: Germany, Belgium, UK, France, Italy, U.S., Russia, China (2012).\n\n
+Communications: Telephones: main lines in use: 7.086 million (2012); mobile cellular: 19.643 million (2012). Broadcast media: more than 90% of households are connected to cable or satellite TV systems that provide a wide range of domestic and foreign channels; public service broadcast system includes multiple broadcasters, 3 with a national reach and the remainder operating in regional and local markets; 2 major nationwide commercial television companies, each with 3 or more stations, and many commercial TV stations in regional and local markets; nearly 600 radio stations with a mix of public and private stations providing national or regional coverage (2008). Internet hosts: 13.699 million (2012). Internet users: 14.872 million (2009).\n\n
+Transportation: Railways: total: 3,013 km (2012). Roadways: total: 139,295 km (includes 2,758 km of expressways) (2012) . Waterways: 6,237 km (navigable for ships of 50 tons). Ports and terminals: Amsterdam, IJmuiden, Moerdijk, Rotterdam, Terneuzen, Vlissingen. Airports: 29 (2013).\n
+
         </item>
 
         <item>NORWAY\n\n
@@ -307,10 +409,21 @@ Literacy rate: 86.9% (2010 est.)\n\n
 
 
         <item>PAKISTAN\n\n
+            Principal languages: Punjabi 48%, Sindhi 12%, Saraiki (a Punjabi variant) 10%, Pashto (alternate name, Pashtu) 8%, Urdu (official) 8%, Balochi 3%, Hindko 2%, Brahui 1%, English (official; lingua franca of Pakistani elite and most government ministries), Burushaski, and other 8%\n\n
+Ethnicity/race: Punjabi 44.68%, Pashtun (Pathan) 15.42%, Sindhi 14.1%, Sariaki 8.38%, Muhajirs 7.57%, Balochi 3.57%, other 6.28%\n\n
+Religions: Muslim (official) 96.4% (Sunni 85-90%, Shia 10-15%), other (includes Christian and Hindu) 3.6% (2010 est.)\n\n
+National Holiday: Republic Day, March 23\n\n
+Literacy rate: 54.9% (2009 est.)\n\n
         </item>
 
 
         <item>POLAND\n\n
+            National name: Rzeczpospolita Polska\n\n
+Current government officials\n\n
+Language: Polish (official) 96.2%, Polish and non-Polish 2%, non-Polish 0.5%, unspecified 1.3% (2011 est.)\n\n
+Ethnicity/race: Polish 96.9%, German 0.2%, Silesian 1.1%, Ukrainian 0.1%, other and unspecified 1.7% (2011)\n\n
+Religions: Catholic 87.2% (includes Roman Catholic 86.9% and Greek Catholic, Armenian Catholic, and Byzantine-Slavic Catholic .3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentacostal), other 0.4% (includes Jehovah\'s Witness, Buddhist, Hare Krishna, Gaudiya Vaishnavism, Muslim, Jewish, Mormon), unspecified 10.8% (2012)\n\n
+Literacy rate: 99.7% (2011 est.)\n\n
         </item>
 
         <item>QATAR\n\n
@@ -457,6 +570,9 @@ Literacy rate: 65.3% (2011 est.)\n\n
 Republic of Zambia\n\n
 Current government officials\n\n
 Literacy rate: 61.4% (2007 est.)\n\n
+            Religions: Protestant 75.3%, Roman Catholic 20.2%, other 2.7% (includes Muslim Buddhist, Hindu, and Baha\'i), none 1.8% (2010 est.)\n\n
+Literacy rate: 61.4% (2007 est.)\n\n
+Economic summary: GDP/PPP (2013 est.): $25.47 billion; per capita $1,800. Real growth rate: 6%. Inflation: 7.1%. Unemployment: 15% (2008 est.). Arable land: 4.52%. Agriculture: corn, sorghum, rice, peanuts, sunflower seeds, vegetables, flowers, tobacco, cotton, sugarcane, cassava (manioc, tapioca), coffee; cattle, goats, pigs, poultry, milk, eggs, hides. Labor force: 6.275 million (2013); agriculture 85%, industry 6%, services 9% (2004). Industries: copper mining and processing, emerald mining, construction, foodstuffs, beverages, chemicals, textiles, fertilizer, horticulture. Natural resources: copper, cobalt, zinc, lead, coal, emeralds, gold, silver, uranium, hydropower. Exports: $8.547 billion (2013 est.): copper/cobalt, cobalt, electricity, tobacco, flowers, cotton. Imports: $8.216 billion (2013 est.): machinery, transportation equipment, petroleum products, electricity, fertilizer; foodstuffs, clothing. Major trading partners: South Africa, China, Democratic Republic of the Congo, Kuwait, South Korea, India, UAE, Egypt (2012).\n\n
         </item>
 
         <item>ZIMBABWE\n\n
