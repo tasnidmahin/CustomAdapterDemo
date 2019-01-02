@@ -11,7 +11,7 @@ public class ProfileActivity extends AppCompatActivity {
     private ImageView iv;
     private TextView tv;
 
-    private String[] ctext ;
+    private String[] ctext, countrynames;
     private int[] pics={R.drawable.afghanistan_details,R.drawable.algeria_details,R.drawable.bangladesh_details,R.drawable.brazil_details,R.drawable.canada_details,R.drawable.croatia_details,
             R.drawable.denmark_details,R.drawable.djibouti_details,R.drawable.egypt_details,R.drawable.ethiopia_details,R.drawable.fiji_details,R.drawable.france_details,R.drawable.germany_details,
             R.drawable.greece_details,R.drawable.haiti_details,R.drawable.hondurus_details,R.drawable.iceland_details,R.drawable.india_details,R.drawable.ireland_details,R.drawable.jamaica_details,R.drawable.jordan_details,
@@ -36,7 +36,7 @@ public class ProfileActivity extends AppCompatActivity {
 
             int pos = Integer.parseInt(ss);
             showDetails(pos);
-
+            this.setTitle(countrynames[pos]);
 
 
         }
@@ -45,6 +45,7 @@ public class ProfileActivity extends AppCompatActivity {
     private  void init()
     {
         ctext = getResources().getStringArray(R.array.country_details);
+        countrynames = getResources().getStringArray(R.array.country_names);
     }
     void showDetails(int pos)
     {
